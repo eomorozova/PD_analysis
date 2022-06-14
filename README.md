@@ -1,1 +1,1 @@
-# PD_analysis
+Calculate phase response curve of a bursting neuron
